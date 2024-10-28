@@ -4,6 +4,7 @@ FROM procedures
 GROUP BY DESCRIPTION
 ORDER BY ProcedureCount DESC;
 
+
 -- Query 2: Encounter conditions
 SELECT 
     CASE 
@@ -19,6 +20,7 @@ GROUP BY
 ORDER BY 
     EncounterCount DESC;
 
+
 -- Query 3: Encounter Class Cost Analysis
 SELECT 
     EncounterClass,
@@ -33,6 +35,7 @@ GROUP BY
     EncounterClass
 ORDER BY 
     TotalClaimCost DESC;
+
 
 -- Query 4: Base and Total Claim Costs
 SELECT 
