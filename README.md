@@ -39,7 +39,7 @@ This analysis aims to explore the following:
    - Matplotlib and Seaborn were used to create visualizations, helping to interpret the data and identify trends.
 
 4. **Statistical Analysis**:
-   - Linear regression and outlier analysis were conducted to explore relationships between costs and encounters.
+   - Linear regression and correlation coefficient were used to explore relationships between costs and encounters.
 
 
 ## Usage
