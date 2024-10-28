@@ -22,7 +22,7 @@ This analysis aims to explore the following:
 - Matplotlib
 - Seaborn
 - Scikit-Learn
-- MySql Workbench
+- MySQL Workbench
 - Jupyter Notebooks
 
 ## Methodology
